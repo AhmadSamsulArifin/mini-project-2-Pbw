@@ -72,9 +72,10 @@ Fitur:
 - Tombol navigasi
 Penjelasannya:
 Data kesemuanya diambil dari database:
-(<?= $profile['name']; ?>)
-(<?= $profile['role']; ?>)
-(<?= $profile['tagline']; ?>)
+<img width="186" height="23" alt="image" src="https://github.com/user-attachments/assets/6326e4be-c79b-4fe6-92ed-4df45f987bf0" />
+<img width="186" height="26" alt="image" src="https://github.com/user-attachments/assets/e05f93c9-74a6-49d4-a75b-ce5d3d5b2f29" />
+<img width="208" height="23" alt="image" src="https://github.com/user-attachments/assets/f2ddb1cc-3a71-48ad-a55a-f59c0e03bc12" />
+
 dan layoutnya menggunakan Bootstrap grid (row, col-lg-6).
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fe3f140d-9c2b-4136-8fa9-81ec735cf2a8" />
@@ -93,28 +94,30 @@ Fitur:
 Penjelasannya:
 Data kesemuanya diambil dari database:
 a. Quick Info
-<?= $about['focus']; ?>
-<?= $about['interest']; ?>
-<?= $about['goal']; ?>
+<img width="804" height="311" alt="image" src="https://github.com/user-attachments/assets/a19218d8-6f68-4b1a-9fb5-7ebe3780533e" />
+
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2090ef3e-b892-40ac-96ba-4a6e9daaccf1" />
 
 
 b. Deskripsi
-<?= $about['description']; ?>
+<img width="586" height="32" alt="image" src="https://github.com/user-attachments/assets/82772308-e009-4464-affa-64b539a1ea6f" />
+
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2c975e9b-e7cf-44a2-80a3-04b09d74bdce" />
 
 
 c. Skills
 Menggunakan perulangan:
-<?php while($s = mysqli_fetch_assoc($skills)) { ?>
+<img width="491" height="23" alt="image" src="https://github.com/user-attachments/assets/cc327814-3a35-4d4b-b1ec-e2b6169df25a" />
+
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2a963117-0b5b-43cb-90c2-1a7259859dcc" />
 
 
 d. Experience
-<?php while($e = mysqli_fetch_assoc($experiences)) { ?>
+<img width="519" height="26" alt="image" src="https://github.com/user-attachments/assets/de397ef9-d788-43ef-b22f-3ec5706c4d7c" />
+
 dan ditampilkan dalam bentuk timeline sederhana.
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/37baffb8-e0af-4759-a2bc-6fd301082deb" />
@@ -127,7 +130,8 @@ Fitur:
 - Tombol lihat sertifikat
 Penjelasannya:
 Data kesemuanya diambil dari database:
-<?php while($c = mysqli_fetch_assoc($certificates)) { ?>
+<img width="488" height="27" alt="image" src="https://github.com/user-attachments/assets/2e8e297e-755b-4128-a57b-b59af56b82ab" />
+
 
 yang otamtis menampilkan:
 - Judul
