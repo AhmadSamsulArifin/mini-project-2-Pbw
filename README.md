@@ -37,12 +37,7 @@ Website portfolio yang sebelumnya dibuat menggunakan HTML, CSS, Bootstrap, dan V
 
 File koneksi.php digunakan untuk menghubungkan website dengan database:
 
-$host = "localhost";
-$user = "root";
-$password = "";
-$database = "portfolio";
-
-$conn = mysqli_connect($host, $user, $password, $database);
+<img width="479" height="234" alt="image" src="https://github.com/user-attachments/assets/9603c75c-6a4c-46b8-a292-7235a02be0c7" />
 
 Jika koneksi gagal, maka akan muncul pesan error.
 
