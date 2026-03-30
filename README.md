@@ -45,11 +45,7 @@ Jika koneksi gagal, maka akan muncul pesan error.
 
 Data diambil menggunakan query SQL di dalam PHP:
 
-$profile = mysqli_fetch_assoc(mysqli_query($conn, "SELECT * FROM profile LIMIT 1"));
-$about = mysqli_fetch_assoc(mysqli_query($conn, "SELECT * FROM about LIMIT 1"));
-$skills = mysqli_query($conn, "SELECT * FROM skills");
-$experiences = mysqli_query($conn, "SELECT * FROM experiences");
-$certificates = mysqli_query($conn, "SELECT * FROM certificates");
+<img width="663" height="99" alt="image" src="https://github.com/user-attachments/assets/868f639d-1f1a-40d1-b195-547a476df8e1" />
 
 Penjelasan tambahan:
 kenapa beda dari yang lain ini penjelasannya,
@@ -76,9 +72,9 @@ Fitur:
 - Tombol navigasi
 Penjelasannya:
 Data kesemuanya diambil dari database:
-<?= $profile['name']; ?>
-<?= $profile['role']; ?>
-<?= $profile['tagline']; ?>
+(<?= $profile['name']; ?>)
+(<?= $profile['role']; ?>)
+(<?= $profile['tagline']; ?>)
 dan layoutnya menggunakan Bootstrap grid (row, col-lg-6).
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fe3f140d-9c2b-4136-8fa9-81ec735cf2a8" />
