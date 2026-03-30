@@ -93,7 +93,10 @@ Fitur:
 
 Penjelasannya:
 Data kesemuanya diambil dari database:
+
 a. Quick Info
+
+
 <img width="804" height="311" alt="image" src="https://github.com/user-attachments/assets/a19218d8-6f68-4b1a-9fb5-7ebe3780533e" />
 
 
@@ -101,6 +104,8 @@ a. Quick Info
 
 
 b. Deskripsi
+
+
 <img width="586" height="32" alt="image" src="https://github.com/user-attachments/assets/82772308-e009-4464-affa-64b539a1ea6f" />
 
 
@@ -108,7 +113,11 @@ b. Deskripsi
 
 
 c. Skills
+
+
 Menggunakan perulangan:
+
+
 <img width="491" height="23" alt="image" src="https://github.com/user-attachments/assets/cc327814-3a35-4d4b-b1ec-e2b6169df25a" />
 
 
@@ -116,6 +125,8 @@ Menggunakan perulangan:
 
 
 d. Experience
+
+
 <img width="519" height="26" alt="image" src="https://github.com/user-attachments/assets/de397ef9-d788-43ef-b22f-3ec5706c4d7c" />
 
 dan ditampilkan dalam bentuk timeline sederhana.
